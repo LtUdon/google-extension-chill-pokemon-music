@@ -1,9 +1,0 @@
-# OS junk
-.DS_Store
-Thumbs.db
-
-# Editor settings
-.vscode/
-.idea/
-*.suo
-*.user
