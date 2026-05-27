@@ -1,0 +1,1 @@
+console.log("Music Dex popup has opened!");
