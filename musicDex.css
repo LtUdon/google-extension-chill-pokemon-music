@@ -10,7 +10,7 @@ html{
     color: #71F3FD;
     border-radius: 10px;
 }
-button {
+button.control {
     font-size: 24px;
     width: 55px;
     height: 55px;
