@@ -1,10 +1,11 @@
 {
-    "name": "Chill",
+    "name": "MusicDex",
     "description": "Play chill music in the background.",
     "version": "1.0.0",
     "manifest_version": 3,
     "action":{
-        "default_popup": "musicDex.html"
+        "default_popup": "musicDex.html",
+        "default_icon": "MusicDex_logo.png"
     },
     "background": {
     "service_worker": "background.js"
