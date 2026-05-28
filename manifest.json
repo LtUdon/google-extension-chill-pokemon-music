@@ -1,9 +1,13 @@
 {
-    "name": "Pokemon Chill",
-    "description": "Play chill pokemon music in the background.",
+    "name": "Chill",
+    "description": "Play chill music in the background.",
     "version": "1.0.0",
     "manifest_version": 3,
     "action":{
         "default_popup": "musicDex.html"
-    }
+    },
+    "background": {
+    "service_worker": "background.js"
+    },
+    "permissions": ["offscreen", "tabs"]
 }
