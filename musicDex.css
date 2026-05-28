@@ -21,3 +21,18 @@ button.utilities {
     width: 10px;
     height: 10px;
 }
+
+#music-info,
+#controls,
+#source-control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+#controls {
+    flex-direction: row;
+    gap: 10px;
+}
