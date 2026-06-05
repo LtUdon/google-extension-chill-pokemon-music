@@ -1,0 +1,17 @@
+{
+  "name": "chill-pokemon-music",
+  "version": "1.0.0",
+  "description": "Play chill music in the background while browsing.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome-extension",
+    "music",
+    "lofi",
+    "background"
+  ],
+  "author": "",
+  "license": "MIT"
+}

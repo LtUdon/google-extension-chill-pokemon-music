@@ -1,4 +1,4 @@
-const API_KEY = CONFIG.JAMENDO_KEY;
+const API_KEY = CONFIG.JAMENDO_KEY; // Accesses through offscreen.html's script tag
 let tracks = [];
 let currentIndex = 0;
 let isPlaying = false;
